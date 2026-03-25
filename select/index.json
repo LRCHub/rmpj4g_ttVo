@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ヒロイン",
+  "base_artist": "絢香",
+  "createdAt": "2026-03-25T15:42:48.993913Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒロイック・ヒロイン",
+      "artist": "ときのそら",
+      "has_synced": true,
+      "path": "select/01_ヒロイック・ヒロイン_ときのそら.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒロイン",
+      "artist": "ayaka",
+      "has_synced": false,
+      "path": "select/02_ヒロイン_ayaka.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒロイン",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/03_ヒロイン_絢香.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プライベイト・ヒロイン",
+      "artist": "Rebecca",
+      "has_synced": true,
+      "path": "select/04_プライベイト・ヒロイン_Rebecca.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヒロイン - Heroine",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/05_ヒロイン_-_Heroine_imase.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヒロイン",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/06_ヒロイン_imase.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヒロイン",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/07_ヒロイン_imase.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヒロイン",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/08_ヒロイン_back_number.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヒロイン - Heroine",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/09_ヒロイン_-_Heroine_back_number.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "プライベイト・ヒロイン",
+      "artist": "REBECCA",
+      "has_synced": false,
+      "path": "select/10_プライベイト・ヒロイン_REBECCA.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ヒロイック・ヒロイン",
+      "artist": "Tokino Sora",
+      "has_synced": true,
+      "path": "select/11_ヒロイック・ヒロイン_Tokino_Sora.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ヒロイン",
+      "artist": "Hiromitsu Kitayama",
+      "has_synced": true,
+      "path": "select/12_ヒロイン_Hiromitsu_Kitayama.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ヒロイン - angel dust mix",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/13_ヒロイン_-_angel_dust_mix_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ヒロイン",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/14_ヒロイン_BUCK-TICK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒロイン",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/pl_01_ヒロイン_絢香.txt"
+    }
+  ]
+}
